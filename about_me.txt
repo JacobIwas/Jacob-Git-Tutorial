@@ -1,3 +1,8 @@
 Introduce yourself in this file!
+<<<<<<< HEAD
 I'm a junior studying economics in LSA
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+=======
+I am a junior studying economics in the LSA.
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+>>>>>>> 1798372d1df41e616bf2a83f0b1a6d665eb01bca
